@@ -1,0 +1,6 @@
+upload C:\Users\dell\Desktop\BKnam3ki1\Computer network\assignment\ComputerNetworking1\hung
+upload C:\Clone\ddd (2)\ComputerNetworking1\hung
+upload C:\Clone\Deploy\ComputerNetworking1\hung
+upload /mnt/c/Clone/Deploy/ComputerNetworking1/hung
+upload /mnt/c/Users/dell/Desktop/BKnam3ki1/Computer_network/assignment/ComputerNetworking1(1)/hung
+
